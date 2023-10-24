@@ -1,5 +1,5 @@
-import data from "./data.json";
-import Jobs from "./components/Jobs";
+import data from "./data_IO.json";
+import Jobs from "./components/Jobs2";
 import { useState } from "react";
 import Header from "./components/Header";
 import Search from "./components/Search";
@@ -30,7 +30,6 @@ function App() {
     <div>
       <div className="header"></div>
 
-      {/* <Search setSearchKeyword={setSearchKeyword} /> */}
 
       {filterKeywords.length > 0 && (
         <Header
@@ -39,6 +38,8 @@ function App() {
           clearAll={clearAll}
         />
       )}
+
+      {/* <Search setSearchKeyword={setSearchKeyword} />  */}
 
       <Jobs
         keywords={filterKeywords}
