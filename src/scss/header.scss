@@ -3,6 +3,8 @@
   flex-direction: column;
   align-items: center;
   margin-top: calc(2vw + -4rem);
+  position: -webkit-sticky;
+  position:sticky;
 
   ul {
     @media only screen and (max-width: 375px) {
