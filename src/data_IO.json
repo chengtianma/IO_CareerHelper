@@ -2,7 +2,7 @@
     {
       "id": 1,
       "organization": "UNDP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNDP.svg",
       "is_new": false,
       "featured": false,
       "position": "Support the labelling of texts by goals of the African Union's Agenda 2063",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "organization": "UNDP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNDP.svg",
       "is_new": false,
       "featured": false,
       "position": "Support to Identify Polyhouse Geo-locations through Images on Satellite Imagery",
@@ -38,7 +38,7 @@
     {
       "id": 3,
       "organization": "UNDP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNDP.svg",
       "is_new": false,
       "featured": false,
       "position": "Support climate risk assessment desk review",
@@ -56,7 +56,7 @@
     {
       "id": 4,
       "organization": "UNV",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNV.svg",
       "is_new": false,
       "featured": false,
       "position": "Crafting volunteer assignments for humanitarian activities in Yemen",
@@ -73,8 +73,44 @@
     },
     {
       "id": 5,
+      "organization": "UNICEF",
+      "logo": "./images2/unicef.svg",
+      "is_new": false,
+      "featured": false,
+      "position": "WASH Assistant, CEED",
+      "location": "Onsite",
+      "assignment_country":"Zambia",
+      "education": "Bachelor's degree or higher",
+      "sdg":["SDG3"],
+      "contract": "Volunteer",
+      "website": "https://app.unv.org/opportunities/1736944511322368",
+      "category": "Support",
+      "background":["Environmental Science"],
+      "requirements":"Scientific writing skills",
+      "languages": []
+    },
+    {
+      "id": 6,
+      "organization": "UNICEF",
+      "logo": "./images2/unicef.svg",
+      "is_new": false,
+      "featured": false,
+      "position": "Communication Officer",
+      "location": "Onsite",
+      "assignment_country":"Denmark",
+      "education": "Master's degree or higher",
+      "sdg":["SDG4"],
+      "contract": "Volunteer",
+      "website": "https://app.unv.org/opportunities/1738382377897216",
+      "category": "Support",
+      "background":["Journalism and Communication", "Economics and Management", "Public Policy"],
+      "requirements":"",
+      "languages": []
+    },
+    {
+      "id": 8,
       "organization": "UNAIDS",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNAIDS.svg",
       "is_new": false,
       "featured": false,
       "position": "Develop a Fundraising Development Proposal",
@@ -90,9 +126,9 @@
       "languages": []
     },
     {
-      "id": 6,
+      "id": 9,
       "organization": "UNAIDS",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNAIDS.svg",
       "is_new": false,
       "featured": false,
       "position": "Communications strategy and public information content development for UNAIDS",
@@ -108,9 +144,9 @@
       "languages": []
     },
     {
-      "id": 7,
+      "id": 10,
       "organization": "UNDP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNDP.svg",
       "is_new": false,
       "featured": false,
       "position": "International Intern",
@@ -126,9 +162,9 @@
       "languages": []
     },
     {
-      "id": 8,
+      "id": 11,
       "organization": "UNDP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNDP.svg",
       "is_new": false,
       "featured": false,
       "position": "Data Science Intern",
@@ -138,15 +174,15 @@
       "sdg":[],
       "contract": "Internship",
       "website": "https://jobs.undp.org/cj_view_job.cfm?cur_job_id=114340",
-      "category": "Support",
+      "category": "Research",
       "background":["Computer Science"],
       "requirements":"Python, Deep learning frameworks and techniques",
       "languages": []
     },
     {
-      "id": 9,
+      "id": 12,
       "organization": "UNICEF",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/unicef.svg",
       "is_new": false,
       "featured": false,
       "position": "Multimedia Intern",
@@ -162,9 +198,9 @@
       "languages": []
     },
     {
-      "id": 10,
+      "id": 13,
       "organization": "UNICEF",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/unicef.svg",
       "is_new": false,
       "featured": false,
       "position": "Junior Archivist",
@@ -180,9 +216,9 @@
       "languages": []
     },
     {
-      "id": 11,
+      "id": 14,
       "organization": "UNWOMEN",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNWOMEN.svg",
       "is_new": false,
       "featured": false,
       "position": "Brussels Liaison Office Intern",
@@ -198,9 +234,9 @@
       "languages": []
     },
     {
-      "id": 12,
+      "id": 15,
       "organization": "UNWOMEN",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNWOMEN.svg",
       "is_new": false,
       "featured": false,
       "position": "AWLN Project Support Intern",
@@ -216,9 +252,9 @@
       "languages": []
     },
     {
-      "id": 13,
+      "id": 16,
       "organization": "UNAIDS",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/UNAIDS.svg",
       "is_new": false,
       "featured": false,
       "position": "UNAIDS Internship 2023",
@@ -234,9 +270,9 @@
       "languages": []
     },
     {
-      "id": 14,
+      "id": 17,
       "organization": "WFP",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/WFP.svg",
       "is_new": false,
       "featured": false,
       "position": "Administration/Management Services Internship",
@@ -252,9 +288,9 @@
       "languages": []
     },
     {
-      "id": 15,
+      "id": 18,
       "organization": "FAO",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/FAO.svg",
       "is_new": false,
       "featured": false,
       "position": "Internship Programme for Asia and the Pacific (RAP)",
@@ -270,9 +306,9 @@
       "languages": []
     },
     {
-      "id": 16,
+      "id": 19,
       "organization": "FAO",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/FAO.svg",
       "is_new": false,
       "featured": false,
       "position": "Internship Programme for FAO headquarters (HQ)",
@@ -288,9 +324,9 @@
       "languages": []
     },
     {
-      "id": 17,
+      "id": 20,
       "organization": "IFAD",
-      "logo": "./images/photosnap.svg",
+      "logo": "./images2/IFAD.svg",
       "is_new": false,
       "featured": false,
       "position": "IFAD Internship Programme",

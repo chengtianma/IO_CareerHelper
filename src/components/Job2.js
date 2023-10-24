@@ -26,6 +26,7 @@ const Job = (props) => {
 
   const importSvgs = () => {
     const logoSvg = import(`${logo}`).then((d) => {
+      console.log(d.default); // Log the imported SVG
       setIcon(d.default);
     });
   };
@@ -62,12 +63,12 @@ const Job = (props) => {
           <span>{assignment_country}</span>
         </div>
 
-        <div className="education_level">
-          <span>{education}</span>
-        </div>
-        
         <div className="requirements">
           <span>{requirements}</span>
+        </div>
+
+        <div className="education_level">
+          <span>{education}</span>
         </div>
         
       </div>
