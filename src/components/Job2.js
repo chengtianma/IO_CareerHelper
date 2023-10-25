@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 
 const Job = (props) => {
   const {
-    id,
+    // id,
     organization,
     logo,
-    is_new,
+    // is_new,
     featured,
     position,
     location,
@@ -17,21 +17,22 @@ const Job = (props) => {
     category,
     background,
     requirements,
-    languages,
+    // languages,
   } = props.data;
 
   let keywords = [category, contract, location, ...background, ...sdg];
 
   const [icon, setIcon] = useState("");
 
-  const importSvgs = () => {
-    const logoSvg = import(`${logo}`).then((d) => {
-      console.log(d.default); // Log the imported SVG
-      setIcon(d.default);
-    });
-  };
+
 
   useEffect(() => {
+    const importSvgs = () => {
+      import(`${logo}`).then((d) => {
+        setIcon(d.default);
+      });
+    };
+  
     importSvgs();
   }, [logo]);
 

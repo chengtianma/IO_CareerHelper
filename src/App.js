@@ -2,7 +2,7 @@ import data from "./data_IO.json";
 import Jobs from "./components/Jobs2";
 import { useState } from "react";
 import Header from "./components/Header";
-import Search from "./components/Search";
+// import Search from "./components/Search";
 
 function App() {
   const [filterKeywords, setfilterKeywords] = useState([]);

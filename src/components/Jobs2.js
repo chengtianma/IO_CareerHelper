@@ -16,7 +16,10 @@ const Jobs = ({ data, setKeywords, keywords }) => {
   //   }
   // };
 
-  const modifiedData = () => {
+
+
+  useEffect(() => {
+    const modifiedData = () => {
       if (keywords) {
       const newData = data.filter((d) => {
         return keywords.every((key) => {
@@ -33,12 +36,11 @@ const Jobs = ({ data, setKeywords, keywords }) => {
     } else {
       setfilteredData(data);
     }
-  };
+    };
 
-  useEffect(() => {
     modifiedData();
     // SearchFunc();
-  }, [keywords]);
+  }, [keywords, data]);
 
   return (
     <div className="jobs">
