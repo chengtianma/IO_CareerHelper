@@ -51,7 +51,6 @@
 
       .close {
         background-color: var(--primary-color);
-
         border: none;
         border-radius: 0 5px 5px 0;
         cursor: pointer;
@@ -67,14 +66,19 @@
       }
     }
 
-    a {
-      color: var(--very-dark-greyish);
+
+    .clear {
+      background-color: var(--background-color);
+      font-weight: 700;
       position: absolute;
       right: 1.5rem;
-      text-decoration: none;
+      border: none;
+      border-radius: 0 5px 5px 0;
+      cursor: pointer;
+      transition: all 0.2s;
 
       &:hover {
-        color: var(--primary-color);
+        background-color: var(--very-dark-greyish);
         text-decoration: underline;
       }
     }

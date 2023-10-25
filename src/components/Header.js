@@ -15,9 +15,8 @@ const Header = ({ keywords, removeKeywords, clearAll }) => {
             </li>
           );
         })}
-        <a href="/#" onClick={() => clearAll()}>
-          Clear
-        </a>
+
+        <button class="clear" onClick={() => clearAll()}>Clear</button>
       </ul>
     </div>
   );
