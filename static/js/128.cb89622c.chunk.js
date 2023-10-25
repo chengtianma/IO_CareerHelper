@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[128],{128:function(e,s,t){e.exports=t.p+"static/media/insure.4d535e7e02c25d02b163.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[145],{145:function(e,s,t){e.exports=t.p+"static/media/IFAD.63ed7d09920e6d8bb3e5.svg"}}]);
