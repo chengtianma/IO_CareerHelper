@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[501],{501:function(e,c,s){e.exports=s.p+"static/media/icon-remove.70c075ce001e5ccae7c6.svg"}}]);
