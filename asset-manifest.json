@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IO_CareerHelper/static/css/main.db580dfb.css",
-    "main.js": "/IO_CareerHelper/static/js/main.d00395fc.js",
+    "main.js": "/IO_CareerHelper/static/js/main.9852bd24.js",
     "static/js/745.d1ef33ff.chunk.js": "/IO_CareerHelper/static/js/745.d1ef33ff.chunk.js",
     "static/js/423.a9bb4a4a.chunk.js": "/IO_CareerHelper/static/js/423.a9bb4a4a.chunk.js",
     "static/js/317.11e7ec5a.chunk.js": "/IO_CareerHelper/static/js/317.11e7ec5a.chunk.js",
@@ -53,13 +53,13 @@
     "static/media/bg-header-mobile.svg": "/IO_CareerHelper/static/media/bg-header-mobile.9cb13612af1317a665a2.svg",
     "static/media/icon-remove.svg": "/IO_CareerHelper/static/media/icon-remove.70c075ce001e5ccae7c68a570c4b7bc0.svg",
     "main.db580dfb.css.map": "/IO_CareerHelper/static/css/main.db580dfb.css.map",
-    "main.d00395fc.js.map": "/IO_CareerHelper/static/js/main.d00395fc.js.map",
+    "main.9852bd24.js.map": "/IO_CareerHelper/static/js/main.9852bd24.js.map",
     "745.d1ef33ff.chunk.js.map": "/IO_CareerHelper/static/js/745.d1ef33ff.chunk.js.map",
     "423.a9bb4a4a.chunk.js.map": "/IO_CareerHelper/static/js/423.a9bb4a4a.chunk.js.map",
     "317.11e7ec5a.chunk.js.map": "/IO_CareerHelper/static/js/317.11e7ec5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db580dfb.css",
-    "static/js/main.d00395fc.js"
+    "static/js/main.9852bd24.js"
   ]
 }
