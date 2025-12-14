@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[948],{948:function(e,s,t){e.exports=t.p+"static/media/UNWOMEN.68812603c9f05e89ef6d.svg"}}]);

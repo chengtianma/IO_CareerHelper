@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[0],[function(e,s,t){e.exports=t.p+"static/media/UNFPA.60f6a6e01309b968ae7a.svg"}]]);

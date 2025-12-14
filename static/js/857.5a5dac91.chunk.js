@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_job_listing_website=self.webpackChunkreact_job_listing_website||[]).push([[857],{857:function(e,s,t){e.exports=t.p+"static/media/UNDP.cdec9e572d79fd906135.svg"}}]);
